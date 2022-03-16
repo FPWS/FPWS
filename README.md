@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FPWS
 - 👀 I’m interested in AI / Platforms and Digitization
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently growing up a PYTHON
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me by DM
 
